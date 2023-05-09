@@ -1,0 +1,3 @@
+- Add API key to AndroidManifest.xml
+- Start the app. 2000 dummy markers will be drawn and after 2 seconds the map gets destroyed (i.e. for simulating a back navigation) while the markers are still working.
+- The app will crash with an exception
